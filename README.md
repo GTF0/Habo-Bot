@@ -1,7 +1,6 @@
 # The official HABO bot of Discord.
-##### Invite link: [Normal perms (Basic features)](https://discord.com/oauth2/authorize?client_id=1042198885822632089&scope=bot&permissions=379968) 
-##### Admin invite link: [Full perms (Moderation features)](https://discord.com/oauth2/authorize?client_id=1042198885822632089&scope=bot&permissions=8)
-Command prefix: h! or @HABO bot (mention)
+
+Command prefix: Slash command. 
 ### Features
 
 Deploys the HABO when called upon.
